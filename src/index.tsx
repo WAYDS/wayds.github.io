@@ -4,7 +4,7 @@ import * as serviceWorker from './serviceWorker';
 
 const App = () => (
   <React.StrictMode>
-    <span>Way Data Solution</span>
+    <div>Way Data Solution</div>
   </React.StrictMode>
 );
 
